@@ -1,0 +1,6 @@
+discord
+discord.py
+pystyle
+requests
+wikipedia
+aiohttp
